@@ -74,9 +74,7 @@ return [
                     'name' => 'Jacob Gelling',
                     'role' => 'Developer Support Analyst',
                     'gravatar_email' => 'jacobg830@icloud.com',
-                    'social_twitter' => 'https://twitter.com/jacobg830',
-                    'social_googleplus' => 'https://plus.google.com/102914300436620351748/',
-                    'social_github' => 'https://github.com/jacobg830',
+                    'social_github' => 'https://github.com/jacobgelling',
                 ],
                 [
                     'name' => 'Lottfy Khalifa',
